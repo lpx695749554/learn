@@ -5,6 +5,5 @@
 \deftab626
 \pard\tx626\pardeftab626\pardirnatural
 
-\f0\fs26 \cf0 \CocoaLigature0 Git is a distributed version control system. \
-Git is free software.\
-git hahaha}
+\f0\fs26 \cf0 \CocoaLigature0 123456\
+789}
